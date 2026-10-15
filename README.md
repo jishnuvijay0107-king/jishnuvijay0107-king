@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ THE SECURITY WORKBENCH
+# Cybersecurity Student
 
 ### Cybersecurity student · Curious about how systems fail—and how to defend them.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## About this workbench
+## About me
 
 I’m a student building my path into cybersecurity through practical projects. My interests connect **AI application security**, **phishing detection**, and **vulnerability assessment**. This profile is a growing record of that work, with room for experiments, questions, and improvements.
 
