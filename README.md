@@ -1,6 +1,7 @@
 <p align="left"><sub>CYBERSECURITY · APPLICATION SECURITY · AI SECURITY</sub></p>
 
-# Understanding attacks. Building better defenses.
+# JISHNU V
+### Understanding attacks. Building better defenses.
 
 **B.Tech CSE · Cybersecurity specialization · Class of 2029**
 
